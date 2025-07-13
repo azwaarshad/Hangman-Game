@@ -1,0 +1,2 @@
+## Hangman Game
+This is a Python-based Hangman game where players can select categories like fruits, vegetables, countries, and more. The program dynamically generates random words for the chosen category, tracks incorrect guesses, and provides visual feedback on progress. It's a fun and interactive way to explore programming concepts like string manipulation, loops, and conditional statements. Perfect for beginners and anyone looking to enhance their Python skills!
